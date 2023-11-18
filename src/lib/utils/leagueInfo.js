@@ -1,5 +1,5 @@
 /*   STEP 1   */
-export const leagueID = "829926920081776640"; // your league ID
+export const leagueID = "920468038707675136"; // your league ID
 export const leagueName = "Marvel VS DC - Poison Ivy Pod"; // your league name
 export const dues = 25; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
